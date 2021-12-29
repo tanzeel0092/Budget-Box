@@ -105,7 +105,7 @@ DATABASES = {
         'PASSWORD': '6770da5ee565b9d0b58b87dd6f64db7b0a101e13ad2becc3b4e104dd914533bd',
     }
 }
-django_heroku.settings(locals())
+# django_heroku.settings(locals())
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
 
